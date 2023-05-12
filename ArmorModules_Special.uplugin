@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.0",
-	"SemVersion": "2.0.0",
+	"VersionName": "2.0.1",
+	"SemVersion": "2.0.1",
 	"FriendlyName": "PowerSuit Modules: Fresh From R&D",
 	"Description": "These special-purpose Modules are fresh from R&D, offering interesting solutions to interesting problems.",
 	"Category": "Modding",
@@ -18,12 +18,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.4.0",
+			"SemVersion": "^3.4.1",
 			"Enabled": true
 		},
 		{
 			"Name": "ArmorModules",
-			"SemVersion": "^4.0.0",
+			"SemVersion": "^4.1.1",
 			"Enabled": true
 		}
 	]
